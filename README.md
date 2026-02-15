@@ -26,8 +26,7 @@ Developed using Eclipse IDE on macOS (MacBook).
 
 Fernando Padilha Fogaça
 
-
-
+TP01 – Testes da Calculadora Científica
 
 Projeto desenvolvido para atividade da faculdade
 
